@@ -8,12 +8,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Componentes utilizados:
 
-- Fios jumpers;
-- Estrutura para representar o semáforo;
-- Arduino UN0;
-- Resistores;
-- Leds vermelho, amarelo e verde;
-- Buzzer.
+| Item                          | Quantidade | Categoria         | Especificações                    
+|-------------------------------|------------|-------------------|--------------------------------------|
+| Fios jumpers                  | 9     | Conexão          | Fios tipo macho-macho |
+| Fios jumpers                  | 6     | Conexão          | Fios tipo macho-femea |
+| Estrutura para representar o semáforo | 1      | Estrutura        | Estrutura de MDF para representar o semáforo e de suporte para os LEDs |                  
+| Arduino UNO                   | 1          | Microcontrolador | -              | 
+| Resistores                    | 3          | Componente eletrônico | Resistência de 220 ohms     | 
+| LED Vermelho                  | 1          | Componente eletrônico | Led convencional               | 
+| LED Amarelo                   | 1          | Componente eletrônico | Led convencional            | 
+| LED Verde                     | 1          | Componente eletrônico | Led convencional               | 
+| Buzzer                        | 1          | Componente eletrônico | Buzzer padrão                          | 
 
 <br>
 
